@@ -1,0 +1,2 @@
+from tkinter import *
+import wikipedia as wk
