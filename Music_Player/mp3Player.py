@@ -1,5 +1,3 @@
-# Music player in python
-
 from pygame import mixer
 
 mixer.init()
@@ -26,5 +24,3 @@ while True:
     elif ch == "e":
         mixer.music.stop()
         break
-
-# Follow @code_snail
